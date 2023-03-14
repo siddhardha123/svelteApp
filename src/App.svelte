@@ -1,9 +1,9 @@
 
 
 <script>
-	import FeedbackForm from './components/FeedbackForm.svelte'
-	import FeedbackList from './components/FeedbackList.svelte'
-	import FeedbackStats from './components/FeedbackStats.svelte'
+	import FeedbackForm from './components/feedbackForm.svelte'
+	import FeedbackList from './components/feedbackList.svelte'
+	import FeedbackStats from './components/feedbackStats.svelte'
 </script>
 
 <main class="container">

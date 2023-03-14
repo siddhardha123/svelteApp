@@ -2,7 +2,7 @@
     // import {onMount, onDestroy} from 'svelte'
     import {FeedbackStore} from '../stores'
     import { fade, scale } from 'svelte/transition'
-    import FeedbackItem from './FeedbackItem.svelte'
+    import FeedbackItem from './feedbackItem.svelte'
     // let feedback = []
     // const unsubscribe = FeedbackStore.subscribe((data) => feedback = data)
     // onMount(() => {

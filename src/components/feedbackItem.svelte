@@ -1,6 +1,6 @@
 <script>
     import {FeedbackStore} from '../stores'
-    import Card from './Card.svelte'
+    import Card from './card.svelte'
     export let item
     const handleDelete = (itemId) => {
       FeedbackStore.update((currentFeedback) => {
